@@ -11,8 +11,5 @@
         "url": "https://www.jeffchen.dev"
     },
     "categories": ["Linters"],
-    "repository": {
-        "url": "https://www.github.com/jchen1/eslint-plugin-absolute-imports"
-    },
     "keywords": ["eslint", "imports", "eslint-plugin"]
 }
